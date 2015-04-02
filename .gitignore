@@ -1,0 +1,7 @@
+## FILES
+.DS_Store
+*.csv
+*.pdf
+*.ai
+*.png
+!source.csv
