@@ -4,4 +4,4 @@
 *.pdf
 *.ai
 *.png
-!source.csv
+!source-sample.csv
